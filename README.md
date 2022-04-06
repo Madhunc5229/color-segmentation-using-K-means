@@ -8,8 +8,6 @@
 -   Numpy
 
 ## Steps to run the package
-1.Clone the project 
-
     git clone https://github.com/Madhunc5229/color-segmentation-using-K-means
     cd color-segmentation-using-K-means/code
     python kmeans.py
