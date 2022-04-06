@@ -11,8 +11,7 @@
 1.Clone the project 
 
     git clone https://github.com/Madhunc5229/color-segmentation-using-K-means
-    cd color-segmentation-using-K-means
-    cd code
+    cd color-segmentation-using-K-means/code
     python kmeans.py
 
 ### Input Image: 
