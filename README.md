@@ -1,5 +1,5 @@
 # color-segmentation-using-K-means
-### This project segments colors using K-means clustering algorithm
+### This project segments colors in an image using K-means clustering algorithm
 
 ## Dependencies
 
